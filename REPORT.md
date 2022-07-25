@@ -57,7 +57,7 @@ Transaction completed. Hash: 0x7df5fff1fb52f5d43524204e07f2a1fe6acb6ba6c4f847b5e
 
 delegate.ts 
 To delegate to account itself to activate voting rights
-% yarn ts-node scripts/CustomBallot/delegate.ts 0x2c9f01D0BBE95b366d9f8B8B2A8d71F07889579a 0x58921d96CB5024d4a0c8eD88B0464febE3C17f97
+<pre><code>% yarn ts-node scripts/CustomBallot/delegate.ts 0x2c9f01D0BBE95b366d9f8B8B2A8d71F07889579a 0x58921d96CB5024d4a0c8eD88B0464febE3C17f97
 yarn run v1.22.19
 warning ../../../package.json: No license field
 $ /Users/alicehe/Documents/08-Tokenized-Votes/Project/node_modules/.bin/ts-node scripts/CustomBallot/delegate.ts 0x2c9f01D0BBE95b366d9f8B8B2A8d71F07889579a 0x58921d96CB5024d4a0c8eD88B0464febE3C17f97
